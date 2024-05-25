@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.card-style .swipe-card__container {
+    width: max-content;
+    height: max-content;
+    gap: 0px;
+    left: -150px;
+}
+
+.card-style .swipe-card__image-container {
+    height: 300px;
+    background-color: antiquewhite;
+}

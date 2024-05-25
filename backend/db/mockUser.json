@@ -1,0 +1,24 @@
+{
+    "mockUsers": [
+        ["Sasha", "Female", "Petaling Jaya", "UM", ["music", "sports"]],
+        ["Simon", "Female", "1 Utama", "Taylor", ["reading", "traveling"]],
+        ["Tigger", "Male", "Petaling Jaya", "USM", ["sports", "movies"]],
+        ["Snowball", "Male", "1 Utama", "Inti", ["cooking", "hiking"]],
+        ["Midnight", "Male", "Petaling Jaya", "UITM", ["photography", "yoga"]],
+        ["Trouble", "Male", "1 Utama", "Inti", ["coding", "gaming"]],
+        ["Harley", "Female", "Petaling Jaya", "UM", ["painting", "running"]],
+        ["Scooter", "Male", "1 Utama", "Monash", ["music", "dancing"]],
+        ["Milo", "Female", "Petaling Jaya", "USM", ["reading", "cooking"]],
+        ["Missy", "Female", "1 Utama", "Inti", ["traveling", "photography"]],
+        ["Bubba", "Female", "Petaling Jaya", "UITM", ["writing", "singing"]],
+        ["Miss kitty", "Female", "1 Utama", "Taylor", ["movies", "hiking"]],
+        ["Abby", "Male", "Petaling Jaya", "UKM", ["coding", "gaming"]],
+        ["Pumpkin", "Male", "1 Utama", "Inti", ["painting", "yoga"]],
+        ["Garfield", "Female", "Petaling Jaya", "UM", ["music", "reading"]],
+        ["Charlie", "Male", "1 Utama", "Taylor", ["cooking", "running"]],
+        ["Whiskers", "Male", "Petaling Jaya", "UPM", ["dancing", "traveling"]],
+        ["Lilly", "Male", "1 Utama", "Monash", ["photography", "writing"]],
+        ["Buster", "Male", "Petaling Jaya", "USM", ["singing", "movies"]],
+        ["Casper", "Male", "1 Utama", "Monash", ["hiking", "coding"]]
+    ]
+}

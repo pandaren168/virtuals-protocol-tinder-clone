@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+  }
+
+.swipe-landing-widget-container {
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
